@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pilaga/threejs-typescript-boilerplate/issues"
   },
-  "homepage": "https://github.com/pilaga/threejs-typescript-boilerplate#readme"
+  "homepage": "https://github.com/pilaga/threejs-typescript-boilerplate#readme",
+  "devDependencies": {
+    "three": "^0.140.0"
+  }
 }
